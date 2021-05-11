@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewKhassapov
 - 💡🧠 I’m interested in figuring out this version control, and developing skills in machine learning and artificial intelligence,
-- 🌱 I’m currently learning new .js frameworks, a little bit of python and always learning the ever developing C#.
+- 🌱 I’m currently learning new .js frameworks, a little bit of python and always learning the ever-developing C#.
 
 <!---
 AndrewKhassapov/AndrewKhassapov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
