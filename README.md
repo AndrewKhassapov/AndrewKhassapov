@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrewKhassapov
-- 💡🧠 I’m interested in developing skills in machine learning and artificial intelligence,
+- 💡🧠 I’m interested in figuring out this version control, and developing skills in machine learning and artificial intelligence,
 - 🌱 I’m currently learning new .js frameworks, a little bit of python and always learning the ever developing C#.
 
 <!---
