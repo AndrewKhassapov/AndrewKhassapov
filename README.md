@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @AndrewKhassapov
-- 💡🧠 I’m interested in figuring out this version control, and developing skills in machine learning and artificial intelligence,
-- 🌱 I’m currently learning new .js frameworks, a little bit of python and always learning the ever-developing C#.
+- 💡🧠 Figuring out this version control, and developing skills in machine learning and artificial intelligence,
+- 🌱 Always learning the barrage of new .js frameworks, a little bit of python and fine-tuning in my favourite C#.
+- 🔓🔒 Most projects are either proprietary or still in development, which is why contributions may look infrequent publicly: ⬛⬛⬛🟩⬛⬛.
+- Finishing off everybody's favourite **unnamed-project-v2**! 🔥
 
 <!---
 AndrewKhassapov/AndrewKhassapov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
