@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @AndrewKhassapov
+👋
+# Hi, I’m Andrew!
+
+#### I write code. Some of it even ends up finished!
+## I'm a developer, engineer, and State Emergency Services volunteer officer in Melbourne, Australia.
+
+### What am I doing here?
 - 💡🧠 Figuring out this version control, and developing skills in machine learning and artificial intelligence,
 - 🌱 Always learning the barrage of new .js frameworks, a little bit of python and fine-tuning in my favourite C#.
-- 🔓🔒 Most projects are either proprietary or still in development, which is why contributions may look infrequent publicly: ⬛⬛⬛🟩⬛⬛.
+- 🔓🔒 Storing most projects which are either proprietary or still in development, which is why contributions look infrequent publicly: ⬛⬛⬛🟩⬛⬛.
 - Finishing off everybody's favourite **unnamed-project-v2**! 🔥
 
 <!---
