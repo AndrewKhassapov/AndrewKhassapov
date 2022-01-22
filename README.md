@@ -2,7 +2,7 @@
 # Hi, I’m Andrew!
 
 #### I write code. Some of it even ends up finished!
-### I'm a developer, engineer, and State Emergency Services volunteer officer in Melbourne, Australia.
+### I'm a developer, engineer, and volunteer emergency services officer in Melbourne, Australia.
 
 #### What am I doing here?
 - 💡🧠 Figuring out this version control, and developing skills in machine learning and artificial intelligence,
