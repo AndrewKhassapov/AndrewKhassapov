@@ -1,7 +1,7 @@
 👋
 # Hi, I’m Andrew!
 
-#### I write code. Some of it even ends up finished!
+#### I write code. Some of it even works!
 ### I'm a developer, engineer, and volunteer emergency services officer in Melbourne, Australia.
 
 #### What am I doing here?
