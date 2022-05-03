@@ -3,12 +3,12 @@
 
 #### I write code. Some of it even works!
 ## I'm a developer, engineer, and volunteer emergency services officer in Melbourne, Australia.
-### Background in synthetic chemistry, physics, game development and enterprise management.
-## Possible rubber duck.
+- **Background in synthetic chemistry, physics, game development and enterprise management.**
+- *Possible* rubber duck.
 
 #### What am I doing here?
 
-- 💡🧠 Version control and access from anywhere.
+- 💡🧠 Using this neat version control to access updates from anywhere.
 Thank you GitHub :octocat:!
 
 - 🌱 Always learning the ongoing development of new .js frameworks, a bit of python data processing, and fine-tuning in my favourite C#.
