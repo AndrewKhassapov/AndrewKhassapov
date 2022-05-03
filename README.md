@@ -5,9 +5,13 @@
 ### I'm a developer, engineer, and volunteer emergency services officer in Melbourne, Australia.
 
 #### What am I doing here?
-- 💡🧠 Version control access from anywhere!
+
+- 💡🧠 Version control access from anywhere! Thank you GitHub :octocat:.
+
 - 🌱 Always learning the ongoing development of new .js frameworks, a bit of python data processing, and fine-tuning in my favourite C#.
+
 - 🔓🔒 Storing most projects which are either proprietary or private. Which is why contributions look infrequent: ⬛⬛⬛🟩⬛⬛.
+
 - Finishing off everybody's favourite **untitled-project-v2**! 🔥
 
 <div align="center">
