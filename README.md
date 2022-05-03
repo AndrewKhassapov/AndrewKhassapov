@@ -10,7 +10,9 @@
 - 🔓🔒 Storing most projects which are either proprietary or private. Which is why contributions look infrequent: ⬛⬛⬛🟩⬛⬛.
 - Finishing off everybody's favourite **untitled-project-v2**! 🔥
 
-<img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/profile.gif" width="960" height="540">
+<div align="center">
+<img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/profile.gif" width="480" height="270">
+</div>
 
 <!---
 AndrewKhassapov/AndrewKhassapov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
