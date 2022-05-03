@@ -2,11 +2,14 @@
 # Hi, I’m Andrew!
 
 #### I write code. Some of it even works!
-### I'm a developer, engineer, and volunteer emergency services officer in Melbourne, Australia.
+## I'm a developer, engineer, and volunteer emergency services officer in Melbourne, Australia.
+### Background in synthetic chemistry, physics, game development and enterprise management.
+## Possible rubber duck.
 
 #### What am I doing here?
 
-- 💡🧠 Version control access from anywhere! Thank you GitHub :octocat:.
+- 💡🧠 Version control and access from anywhere.
+Thank you GitHub :octocat:!
 
 - 🌱 Always learning the ongoing development of new .js frameworks, a bit of python data processing, and fine-tuning in my favourite C#.
 
