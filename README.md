@@ -4,7 +4,7 @@
 #### I write code. Some of it even works!
 ## I'm a developer, engineer, and volunteer emergency services officer in Melbourne, Australia.
 - **Background in synthetic chemistry, physics, game development and enterprise management.**
-- *Possible* rubber duck.
+- *Possible* rubber duck. <img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/rubber-duck-transparent.png" width="100" height="100"/>
 
 #### What am I doing here?
 
@@ -18,7 +18,7 @@ Thank you GitHub :octocat:!
 - Finishing off everybody's favourite **untitled-project-v2**! 🔥
 
 <div align="center">
-<img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/profile.gif" width="480" height="270">
+<img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/profile.gif" width="480" height="270"/>
 </div>
 
 <!---
