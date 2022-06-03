@@ -21,7 +21,7 @@ Thank you GitHub :octocat:!
 <img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/profile.gif" width="480" height="270"/>
 </div>
 
-$$f(\epsilon) = \int_{-\infty}^{\infty} f(x)e \,dx \ $$
+$$\hat{f}(\epsilon) = \int_{-\infty}^{\infty} f(x)e^(-2\piix\epsilon) \,dx \ $$
 
 <!---
 AndrewKhassapov/AndrewKhassapov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
