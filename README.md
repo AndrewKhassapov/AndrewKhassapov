@@ -21,9 +21,6 @@ Thank you GitHub :octocat:!
 <img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/profile.gif" width="480" height="270"/>
 </div>
 
-## Fourier transform:
-$$\hat{f}(\epsilon) = \int_{-\infty}^{\infty} f(x)e^{-2\pi ix\epsilon} dx \ $$
-
 <!---
 AndrewKhassapov/AndrewKhassapov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
