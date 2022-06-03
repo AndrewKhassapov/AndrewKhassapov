@@ -21,6 +21,7 @@ Thank you GitHub :octocat:!
 <img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/profile.gif" width="480" height="270"/>
 </div>
 
+## Fourier transform:
 $$\hat{f}(\epsilon) = \int_{-\infty}^{\infty} f(x)e^{-2\pi ix\epsilon} dx \ $$
 
 <!---
