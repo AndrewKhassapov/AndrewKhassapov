@@ -21,6 +21,8 @@ Thank you GitHub :octocat:!
 <img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/profile.gif" width="480" height="270"/>
 </div>
 
+$\fourier$
+
 <!---
 AndrewKhassapov/AndrewKhassapov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
