@@ -24,8 +24,11 @@ Thank you GitHub :octocat:!
 ## Imaginary number:
 $i = \sqrt{-1}$
 
+## Something a bit more *complex*: Euler's formula:
+$e^{i\theta} = cos(\theta) + isin(\theta)$
+
 ## Fourier transform:
-$$\hat{f}(\epsilon) = \int_{-\infty}^{\infty} f(x)e^{-2\pi ix\epsilon} dx \ $$
+$$\hat{f}(\epsilon) = \int_{-\infty}^{\infty} f(x)e^{-2\pi ix\epsilon} dx \$$
 
 <!---
 AndrewKhassapov/AndrewKhassapov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
