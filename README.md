@@ -13,7 +13,8 @@ Thank you GitHub :octocat:!
 
 - 🌱 Always learning the ongoing development of new .js frameworks, a bit of python data processing, and fine-tuning in my favourite C#.
 
-- 🔓🔒 Storing most projects which are either proprietary or private. Which is why contributions look infrequent: ⬛⬛⬛🟩⬛⬛.
+- Javascript, HTML/CSS, node, python. C#, Java. Unity, AWS, GCP.
+:coffee: Microsoft Java in D Flat with some toastCode, letTuce and 2omatoe wordsalad for BREAKfast. :tomato: :fork_and_knife:
 
 - Finishing off everybody's favourite **untitled-project-v2**! 🔥
 
