@@ -2,9 +2,8 @@
 # Hi, I’m Andrew!
 
 #### I write code. Some of it even works!
-## I'm a developer, engineer, and volunteer emergency services officer in Melbourne, Australia.
+## I'm a developer, engineer, and emergency services volunteer in Melbourne, Australia.
 - **Background in synthetic chemistry, physics, game development and enterprise management.**
-- *Possible* rubber duck. <img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/rubber-duck-transparent.png" width="25" height="25"/>
 
 #### What am I doing here?
 
@@ -12,6 +11,9 @@
 Thank you GitHub :octocat:!
 
 - 🌱 Always learning the ongoing development of new .js frameworks, a bit of python data processing, and fine-tuning in my favourite C#.
+
+##### And
+- Solving ~~bugs~~features through review. <img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/rubber-duck-transparent.png" width="25" height="25"/>
 
 - Javascript, HTML/CSS, node, python. C#, Java. Unity, AWS, GCP.
 :coffee: Microsoft Java in D Flat with some toastCode, letTuce and 2omatoe wordsalad for BREAKfast. :tomato: :fork_and_knife:
