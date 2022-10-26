@@ -5,7 +5,7 @@
 ## I'm a developer, engineer, and emergency services volunteer in Melbourne, Australia.
 - **Background in synthetic chemistry, physics, game development and enterprise management.**
 
-#### What am I doing here?
+### What am I doing here?
 
 - 💡🧠 Using this neat version control to access project updates from anywhere.
 Thank you GitHub :octocat:!
@@ -15,7 +15,8 @@ Thank you GitHub :octocat:!
 - fine-tuning in my favourite C#,
 - and sandbox testing new technology, before it nears production.
 
-##### Also
+### As well as
+
 - Solving ~~features~~ bugs through review. <img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/rubber-duck-transparent.png" width="25" height="25"/>
 
 - Javascript, HTML/CSS, node, python. C#, Java. Unity, AWS, GCP.
