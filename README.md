@@ -2,18 +2,18 @@
 # Hi, I’m Andrew!
 
 #### I write code. Some of it even works!
-## I'm a developer, engineer, and emergency services volunteer in Melbourne, Australia.
+## I'm a data analyst, developer, engineer, and emergency services volunteer in Melbourne, Australia.
 - **Background in synthetic chemistry, physics, game development and enterprise management.**
 
 ### What am I doing here?
 
-- 💡🧠 Using this neat version control to access project updates from anywhere.
+- 💡🧠☁️ Using this neat version control system to access project updates from anywhere.
 Thank you GitHub :octocat:!
 
-- 🌱 Always learning the ongoing development of new .js frameworks,
-- a bit of python data processing,
-- fine-tuning in my favourite C#,
-- and sandbox testing new technology, before it nears production.
+- :snake: A bit of python and R data processing,
+- 🌱 Learning the ongoing development of new .js frameworks,
+- 🌟 fine-tuning in my favourite C#,
+- :desert: and sandbox testing new technology, before it nears production.
 
 ### As well as
 
