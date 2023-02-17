@@ -11,7 +11,7 @@
 Thank you GitHub :octocat:!
 
 - :snake: A bit of python and R data processing,
-- 🌱 Learning the ongoing development of new .js frameworks,
+- 🌱 learning the ongoing development of new .js frameworks,
 - 🌟 fine-tuning in my favourite C#,
 - :desert: and sandbox testing new technology, before it nears production.
 
