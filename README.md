@@ -3,19 +3,19 @@
 
 #### I write code. Some of it even works!
 ## I'm a data analyst, developer, engineer, and emergency services volunteer in Melbourne, Australia.
-- **Background in synthetic chemistry, physics, game development and enterprise management.**
+- **Background in synthetic chemistry, physics, game development and enterprise automation.**
 
 ### What am I doing here?
 
 - 💡🧠☁️ Using this neat version control system to access project updates from anywhere.
 Thank you GitHub :octocat:!
 
-- :snake: A bit of python and R data processing,
+- :snake: A bit of R and python data processing,
 - 🌱 learning the ongoing development of new .js frameworks,
 - 🌟 fine-tuning in my favourite C#,
 - :desert: and sandbox testing new technology, before it nears production.
 
-### As well as
+### [As well as](# "Not serious projects.").
 
 - Solving ~~features~~ bugs through review. <img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/rubber-duck-transparent.png" width="25" height="25"/>
 
