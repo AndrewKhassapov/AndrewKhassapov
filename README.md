@@ -15,7 +15,7 @@ Thank you GitHub :octocat:!
 - 🌟 fine-tuning in my favourite C#,
 - :desert: and sandbox testing new technology, before it nears production.
 
-### [As well as](# "Not serious projects.").
+### As well as.
 
 - Solving ~~features~~ bugs through review. <img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/rubber-duck-transparent.png" width="25" height="25"/>
 
