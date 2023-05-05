@@ -25,7 +25,7 @@ Thank you GitHub :octocat:!
 - Finishing off everybody's favourite **untitled-project-v2**! 🔥
 
 <div align="center">
-<img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/readme-profile.gif" width="480" height="270"/>
+<img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/readme-profile.gif" width="480"/>
 </div>
 
 <!---
