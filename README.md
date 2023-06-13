@@ -20,9 +20,9 @@ Thank you GitHub :octocat:!
 - Solving ~~features~~ bugs through review. <img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/rubber-duck-transparent.png" width="25" height="25"/>
 
 - Javascript, HTML/CSS, node, python. C#, Java. Unity, AWS, GCP.
-:coffee: Microsoft Java in D Flat with some toastCode, letTuce and 2omatoe wordsalad for BREAKfast. :tomato: :fork_and_knife:
+<br/>:coffee: Microsoft Java in D Flat with some toastCode, letTuce and 2omatoe wordsalad for BREAKfast. :tomato: :fork_and_knife:
 
-- Finishing off everybody's favourite **untitled-project-v2**! 🔥
+- Finishing off everybody's favourite **untitled-project-v2-final-FINAL(1)**! 🔥
 
 <div align="center">
 <img src="https://github.com/AndrewKhassapov/AndrewKhassapov/blob/main/readme-profile.gif" width="480"/>
