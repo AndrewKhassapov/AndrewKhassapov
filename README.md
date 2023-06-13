@@ -3,7 +3,7 @@
 
 #### I write code. Some of it even works!
 ## I'm a data analyst, developer, engineer, and emergency services volunteer in Melbourne, Australia.
-- **Background in synthetic chemistry, physics, game development and enterprise automation.**
+- **Background in synthetic chemistry :test_tube::alembic::pill:,<br/>physics :satellite::artificial_satellite::milky_way:,<br/>game development :video_game::mushroom::gun:<br/> and enterprise automation :computer::calling::bar_chart:.**
 
 ### What am I doing here?
 
